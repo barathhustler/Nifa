@@ -1,0 +1,23 @@
+HTTrack3.49-2 launched on Mon, 04 Mar 2024 23:13:42 at https://www.wigsbytiffani.com/ none none
+(winhttrack https://www.wigsbytiffani.com/ -O "/Users/barath/websites/Nifa" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:14:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+23:14:39	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+23:16:07	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/feed.xml (from https://www.wigsbytiffani.com/)
+23:16:07	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/${n.uri} (from https://www.wigsbytiffani.com/)
+23:16:07	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/decodeURIComponent(e (from https://www.wigsbytiffani.com/)
+23:16:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+23:16:20	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/media/emptystate.85a4add5.svg (from https://www.wigsbytiffani.com/tiffbrows)
+23:16:32	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/product-page/sitemap.xml (from https://www.wigsbytiffani.com/product-page/copy-of-selena-25-wig-m-fri-prev-3-1-1)
+23:16:32	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/product-page/feed.xml (from https://www.wigsbytiffani.com/product-page/copy-of-selena-25-wig-m-fri-prev-3-1-1)
+23:16:33	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+23:16:33	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/service-page/sitemap.xml (from https://www.wigsbytiffani.com/service-page/in-person-consultations-2)
+23:16:33	Error: 	"Not Found" (404) at link https://www.wigsbytiffani.com/service-page/feed.xml (from https://www.wigsbytiffani.com/service-page/in-person-consultations-2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 53 seconds : 101 links scanned, 88 files written (118367292 bytes overall) [23386168 bytes received at 135180 bytes/sec], 118390472 bytes transferred using HTTP compression in 95 files, ratio 19%
+(10 errors, 2 warnings, 0 messages)

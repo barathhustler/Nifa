@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.wigsbytiffani.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1709574223|5UeO1lRLTjYH
+www.wigsbytiffani.com	TRUE	/	FALSE	1999999999	hs	2050816372
+www.wigsbytiffani.com	TRUE	/	FALSE	1999999999	svSession	cc6adca9c2bd42afff9cd076a5823557caf61ba303b7b7ae54dae8cc6f5bc01b0a858580d4cb8082c58e5d3e1aeb50991e60994d53964e647acf431e4f798bcd738f813f3102ce84e13e5f75403a628816558fd730a081c3124036f74b2ca249ce10b536ae08417dca4304db7c1a33ca5d685c4461c80c9b5b1b15824a2114b0ae96a662b14f8960e9128f2728a9a287
+www.wigsbytiffani.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.wigsbytiffani.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_uw2-pub-1_g
+
